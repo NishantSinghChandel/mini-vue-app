@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# vue build
+dist/
+
+#idea files
+.idea/*
+
+#package lock
+package-lock.json
